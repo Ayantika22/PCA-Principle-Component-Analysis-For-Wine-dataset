@@ -33,4 +33,4 @@ Citing the paper(if referred) is mandatory since the paper has copyrights.
 
 PCA Cluster
 
-![alt text](
+![alt text](https://github.com/Ayantika22/PCA-Principle-Component-Analysis-For-Wine-dataset-/blob/master/image.png)
